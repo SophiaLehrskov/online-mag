@@ -1,2 +1,5 @@
-# online-mag
-opgave: online magasin 1. semester 
+#Projekt: Online Magazine
+
+Her er mit online magazine, der hander om hvordan man kan leve livet på budget, uden at gå for meget på kompromis.
+
+Se fungerende prototype her;
