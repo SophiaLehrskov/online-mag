@@ -4,4 +4,4 @@ Her er mit online magazine, der hander om hvordan man kan leve livet på budget,
 
 Se fungerende prototype her;http://magasin.sophialehrskov.dk/index.html
 
-Siden er lavet til en 13 tommer computer
+Siden er lavet til en 13 tommercomputer
